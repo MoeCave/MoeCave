@@ -12,7 +12,7 @@
 </pre>
 </td>
 <td valign="middle" align="center">
-<img src="assets/boo.svg" width="95" alt="Boo - New Super Mario Bros. Wii">
+<img src="https://raw.githubusercontent.com/MoeCave/MoeCave/main/assets/boo.svg" alt="Boo" width="80" />
 </td>
 </tr>
 </table>
