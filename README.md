@@ -97,13 +97,13 @@ moe@cave:~$ _
 <tr>
 <td valign="top" width="33%">
 <h3><a href="https://github.com/MoeCave/App-Gestion-de-Clientes">Gestion de Clientes</a></h3>
-<p>Portfolio web interactivo en 3D con estética ASCII.</p>
-<p><code>React 19</code> · <code>Vite</code> · <code>Tailwind CSS v4</code></p>
+<pAplicación para la gestión integral de clientes, registros y consultas en base de datos</p>
+<p><code>React 19</code> · <code>Net</code> · <code>SQL</code></p>
 </td>
 <td valign="top" width="33%">
 <h3><a href="https://github.com/MoeCave/Calendar">Calendario Web</a></h3>
-<p>Servicio cloud de conversión de documentos desplegado en AWS.</p>
-<p><code>FastAPI</code> · <code>EC2</code> · <code>S3</code> · <code>SQS</code> · <code>pytest</code></p>
+<p>Aplicación web interactiva de calendario para la organización de eventos y tareas</p>
+<p><code>JavaScript</code> · <code>Tailwind</code> · <code>Python</code></p>
 </td>
 <td valign="top" width="33%">
 <h3><a href="https://github.com/MoeCave/Calculadora">Calculadora WPF</a></h3>
