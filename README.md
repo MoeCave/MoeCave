@@ -97,7 +97,7 @@ moe@cave:~$ _
 <tr>
 <td valign="top" width="33%">
 <h3><a href="https://github.com/MoeCave/App-Gestion-de-Clientes">Gestion de Clientes</a></h3>
-<pAplicación para la gestión integral de clientes, registros y consultas en base de datos</p>
+<p>Aplicación para la gestión integral de clientes, registros y consultas en base de datos</p>
 <p><code>React 19</code> · <code>Net</code> · <code>SQL</code></p>
 </td>
 <td valign="top" width="33%">
