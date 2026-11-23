@@ -12,7 +12,7 @@
 </pre>
 </td>
 <td valign="middle" align="center">
-<img src="assets/boo.svg" width="95" alt="Boo - New Super Mario Bros. Wii">
+<img src="assets/NSMBW_Boo_Artwork.svg" width="95" alt="Boo - New Super Mario Bros. Wii">
 </td>
 </tr>
 </table>
@@ -36,8 +36,8 @@ moe@cave:~$ whoami
 Moisés Cuartero · MoeCave
 &nbsp;
 moe@cave:~$ cat role.txt
-Estudiante@ UVic · Teknós
-Foco: desarrollo Full-Stack · Frontend
+Estudiante de 2º de DAM @ UVic · Teknós
+Foco: arquitectura limpia · desarrollo Full-Stack · Cloud (AWS) · Linux
 &nbsp;
 moe@cave:~$ echo $PORTFOLIO
 https://moecave.me
@@ -96,14 +96,14 @@ moe@cave:~$ _
 <table width="100%">
 <tr>
 <td valign="top" width="33%">
-<h3><a href="https://github.com/MoeCave/App-Gestion-de-Clientes">Gestion de Clientes</a></h3>
-<p>Portfolio web interactivo en 3D con estética ASCII.</p>
-<p><code>React 19</code> · <code>Vite</code> · <code>Tailwind CSS v4</code></p>
+<h3><a href="https://github.com/MoeCave/App-Gestion-de-Clientes">Gestión de Clientes</a></h3>
+<p>Aplicación para la gestión integral de clientes, registros y consultas en base de datos.</p>
+<p><code>C#</code> · <code>.NET</code> · <code>SQL Server</code></p>
 </td>
 <td valign="top" width="33%">
 <h3><a href="https://github.com/MoeCave/Calendar">Calendario Web</a></h3>
-<p>Servicio cloud de conversión de documentos desplegado en AWS.</p>
-<p><code>FastAPI</code> · <code>EC2</code> · <code>S3</code> · <code>SQS</code> · <code>pytest</code></p>
+<p>Aplicación web interactiva de calendario para la organización de eventos y tareas.</p>
+<p><code>React</code> · <code>TypeScript</code> · <code>Tailwind CSS</code></p>
 </td>
 <td valign="top" width="33%">
 <h3><a href="https://github.com/MoeCave/Calculadora">Calculadora WPF</a></h3>
